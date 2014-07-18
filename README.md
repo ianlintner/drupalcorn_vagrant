@@ -8,14 +8,14 @@ Instructions
 * clone repo
 * vagrant up
 * update hosts file with the following entries
-** 192.168.56.101 drupal.dev
-** 192.168.56.101 www.drupal.dev
+* 192.168.56.101 drupal.dev
+* 192.168.56.101 www.drupal.dev
 * Navigate to http://drupal.dev in your browser
 * MySql Config
-** host: localhost
-** Username: drupal
-** Password: drupal
-** Database: drupal
+* host: localhost
+* Username: drupal
+* Password: drupal
+* Database: drupal
 
 SSH Into the box using: vagrant ssh
 

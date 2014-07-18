@@ -3,6 +3,9 @@ drupalcorn_vagrant
 This is a basic vagrant box created with puphpet for Drupal 7. It contains 
 basic configuration for creating a Drupal 7 development website on a vagrant box.
 
+This repo is provided as part of presentation on Vagrant for DrupalCorn 2014 in Iowa
+http://prezi.com/pdxdmrovmmfa
+
 Instructions
 ------------
 * clone repo

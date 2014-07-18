@@ -23,3 +23,13 @@ Instructions
 SSH Into the box using: vagrant ssh
 
 MySql Root Password is: vagrant
+
+
+Vagrant Performance
+-------------------
+Virtual Box Performance out of the box using shared folders can be pretty painful. 
+Here are some links to information about speeding up VirtualBox Performance.
+
+http://www.stefanwrobel.com/how-to-make-vagrant-performance-not-suck
+
+http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html
